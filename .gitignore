@@ -1,0 +1,5 @@
+.cache/
+prices.db
+__pycache__/
+.venv/
+.pytest_cache/
